@@ -1,0 +1,32 @@
+﻿Types of Statistics
+Statistics is a branch of mathematics that deals with the collection, analysis, interpretation, and presentation of data. It is broadly categorized into two main types: Descriptive Statistics and Inferential Statistics.
+________________
+
+
+1. Descriptive Statistics
+Descriptive statistics help in summarizing and presenting data in an understandable format. They organize large datasets into meaningful insights but do not draw conclusions beyond the data provided.
+Key Methods of Descriptive Statistics:
+* Measures of Central Tendency: Mean, Median, Mode
+* Measures of Dispersion: Range, Variance, Standard Deviation
+* Data Representation: Tables, Charts, Graphs
+Example:
+The average height of students in a class is 5.6 feet. This statement provides a summary of the data without making predictions or generalizations.
+________________
+
+
+2. Inferential Statistics
+Inferential statistics use sample data to make generalizations or predictions about a larger population. These methods involve probability theory, estimation, and hypothesis testing to derive meaningful conclusions.
+Key Techniques in Inferential Statistics:
+* Hypothesis Testing: t-tests, chi-square tests, ANOVA
+* Confidence Intervals: Estimating a range for population parameters
+* Regression Analysis: Understanding relationships between variables
+* Correlation Analysis: Measuring the strength of associations
+Example:
+A survey of 1,000 voters predicts that 55% of the population supports a particular candidate. This inference is drawn from a sample and applied to a larger population.
+________________
+
+
+Conclusion
+* Descriptive statistics help summarize and organize data through numerical calculations and visual representations.
+* Inferential statistics allow for predictions and generalizations about a population based on a sample.
+Both types of statistics are crucial in decision-making across various fields, including business, healthcare, research, and social sciences.

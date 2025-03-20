@@ -1,0 +1,6 @@
+2025-03-20 12:20:25,513 - Processing started for data1.csv
+2025-03-20 12:20:25,513 - Processing started for data2.csv
+2025-03-20 12:27:29,792 - Processing started for C:\Users\Dharani Ravi\Desktop\ML projects\stockprice\env\Lib\site-packages\sklearn\datasets\data\wine_data.csv
+2025-03-20 12:27:29,793 - Processing started for C:\Users\Dharani Ravi\Desktop\ML projects\stockprice\env\Lib\site-packages\sklearn\datasets\data\iris.csv
+2025-03-20 12:27:29,807 - Column 'value' not found in C:\Users\Dharani Ravi\Desktop\ML projects\stockprice\env\Lib\site-packages\sklearn\datasets\data\iris.csv
+2025-03-20 12:27:29,815 - Column 'value' not found in C:\Users\Dharani Ravi\Desktop\ML projects\stockprice\env\Lib\site-packages\sklearn\datasets\data\wine_data.csv
